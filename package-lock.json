@@ -1,0 +1,24 @@
+{
+  "name": "socialspike-wp-proposal",
+  "version": "1.2.3",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "socialspike-wp-proposal",
+      "version": "1.2.3",
+      "dependencies": {
+        "@fontsource/league-spartan": "^5.1.0"
+      }
+    },
+    "node_modules/@fontsource/league-spartan": {
+      "version": "5.2.8",
+      "resolved": "https://registry.npmjs.org/@fontsource/league-spartan/-/league-spartan-5.2.8.tgz",
+      "integrity": "sha512-83zacDd4BcvLwQ5JLjMg9s81MybTGKLsQJTihXSy4iQZEhMOofIvfhpe6udE7xk4l29NaQCK59DAzv1HfdIbLw==",
+      "license": "OFL-1.1",
+      "funding": {
+        "url": "https://github.com/sponsors/ayuhito"
+      }
+    }
+  }
+}
