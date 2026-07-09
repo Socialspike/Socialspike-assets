@@ -1,9 +1,0 @@
-{
-  "name": "socialspike-wp-proposal",
-  "version": "1.2.3",
-  "private": true,
-  "description": "Font and rendering dependencies for the Social Spike WordPress proposal system (wp_proposal_v1.html)",
-  "dependencies": {
-    "@fontsource/league-spartan": "^5.1.0"
-  }
-}
